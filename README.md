@@ -97,14 +97,6 @@ Any city supported by OpenWeatherMap API, including:
 - **Agricultural Planning**: Monitor temperature variations for farming
 - **Energy Analysis**: Understand heating/cooling requirements
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
-
 
 ## 🙏 Acknowledgments
 
@@ -122,8 +114,8 @@ Any city supported by OpenWeatherMap API, including:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-analyzer.git
-   cd weather-analyzer
+   git clone https://github.com/haniayasserr/weather-trends-analyzer-version-2.git
+   cd weather-trends-analyzer-version-2
    ```
 
 2. **Create a virtual environment (recommended):**
